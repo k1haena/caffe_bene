@@ -505,7 +505,7 @@
 
     #header .sch{right: 15%;}
     #header .sch img{width: 20px;}
-    .m_m{z-index: 6;}
+    .m_m{z-index: 6; display: none;}
     .left_M{
         position: absolute;
         left: 0; top: 0;
