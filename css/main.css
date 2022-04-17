@@ -28,7 +28,7 @@
     height: 100vh;
     background-color: #cde8fa;
     z-index:2;
-    display: block;
+    display: none;
 }
 .m_menu{
     width: 100%;
